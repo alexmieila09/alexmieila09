@@ -1,7 +1,7 @@
 ### Backend Engineer | Building in Blockchain & Web3
 
 ### 📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=alexmieila09&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexmieila09&show_icons=true&theme=dark&hide_border=true)
 
 - 📫 How to reach me **hello@alexmieila.ro**
 
