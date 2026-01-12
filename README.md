@@ -1,7 +1,7 @@
-### Backend Developer | Building in Blockchain & Web3
+### Backend Engineer | Building in Blockchain & Web3
 
 ### 📊 GitHub Stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alexmieila09&theme=dark" />
+![GitHub Streak](https://streak-stats.demolab.com?user=alexmieila09&theme=dark&hide_border=true)
 
 - 📫 How to reach me **hello@alexmieila.ro**
 
