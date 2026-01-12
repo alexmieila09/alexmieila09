@@ -1,4 +1,4 @@
-# Hi 👋, I'm Alex Mieila
+# Hi
 
 ### Java Developer | Building in Blockchain & Web3
 
