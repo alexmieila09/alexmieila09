@@ -2,7 +2,7 @@
 
 - 📫 How to reach me **hello@alexmieila.ro**
 
-- 👨‍💻 All of my projects are available at **[https://alexmieila.ro](alexmieila.ro)**
+- 👨‍💻 All of my projects are available at **[https://alexmieila.ro](https://alexmieila.ro)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
