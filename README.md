@@ -1,6 +1,4 @@
-# Hi
-
-### Java Developer | Building in Blockchain & Web3
+### Backend Developer | Building in Blockchain & Web3
 
 - 📫 How to reach me **hello@slynode.ro**
 
