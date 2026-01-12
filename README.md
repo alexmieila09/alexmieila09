@@ -2,8 +2,6 @@
 
 ### Java Developer | Building in Blockchain & Web3
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alexmieila09&label=Profile views&color=0e75b6&style=flat" alt="alexmieila09" /> </p>
-
 - 📫 How to reach me **hello@slynode.ro**
 
 - 👨‍💻 All of my projects are available at **[https://alexmieila.ro](https://alexmieila.ro)**
