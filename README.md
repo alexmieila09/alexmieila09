@@ -1,6 +1,6 @@
 ### Backend Developer | Building in Blockchain & Web3
 
-- 📫 How to reach me **hello@slynode.ro**
+- 📫 How to reach me **hello@alexmieila.ro**
 
 - 👨‍💻 All of my projects are available at **[https://alexmieila.ro](alexmieila.ro)**
 
