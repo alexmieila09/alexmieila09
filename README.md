@@ -1,7 +1,14 @@
 ### Backend Engineer | Building in Blockchain & Web3
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexmieila09&show_icons=true&theme=dark&hide_border=true)
+
+<p align="left">
+  <a href="https://github.com/alexmieila09/alexmieila09">
+    <img src="https://komarev.com/ghpvc/?username=alexmieila09" alt="page views" />
+  </a>
+  <a href="https://github.com/alexmieila09?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/alexmieila09?color=green&logo=github">
+  </a>
+</p>
 
 - 📫 How to reach me **hello@alexmieila.ro**
 
