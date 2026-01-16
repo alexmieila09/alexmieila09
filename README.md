@@ -11,8 +11,8 @@
 </p>
 
 
-- 📫 How to reach me: **hello@alexmieila.ro**  
-- 👨‍💻 Projects & portfolio: **https://alexmieila.ro**
+- 📫 How to reach me: **hello@alexmieila.com**  
+- 👨‍💻 Projects & portfolio: **https://alexmieila.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
